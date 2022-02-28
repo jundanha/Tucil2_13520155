@@ -1,0 +1,5 @@
+daftar dataset yang digunakan
+1. iris 
+2. wine
+3. digits
+Semua dataset diambil dari sklearn
